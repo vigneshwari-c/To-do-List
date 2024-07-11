@@ -1,0 +1,19 @@
+.full{
+  width:300px;
+  border:30px solid purple;
+  border-radius: 25px;
+  padding:60px;
+  margin:auto;
+}
+body{
+    text-align: center;
+}
+legend{
+    font-size:30px;
+}
+.fields{
+    background-color:powderblue;
+}
+body{
+    background-color:pink;
+}
